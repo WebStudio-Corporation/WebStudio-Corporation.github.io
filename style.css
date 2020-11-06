@@ -118,6 +118,7 @@ button {
 button:hover {
 	outline:none;
 	background-color:#292929;
+	
 }
 
 button:active {
