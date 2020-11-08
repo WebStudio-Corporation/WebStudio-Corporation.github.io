@@ -74,6 +74,7 @@ html {
 }
 
 button {
+	color:#fff;
 	outline:none;
 	cursor:pointer;
 	border-radius:15px;
@@ -94,7 +95,6 @@ button:active {
 }
 
 #block {
-	background-attachment:fixed;
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-image:url(image/block2.jpg);
@@ -170,19 +170,19 @@ figcaption {
 	font-size:30px;
 	background-color:#171717;
 	border:2px solid #414141;
-	font-size:20px;
+	font-size:25px;
 	padding:5px;
 	
 }
 
 #contact2 {
-	font-size:30px;
+	font-size:25px;
 }
 
 #contact3 {
-	font-size:30px;
-	margin-left:500px;
-	margin-top:-105px;
+	font-size:25px;
+	margin-left:300px;
+	margin-top:-90px;
 	margin-bottom:50px;
 	text-align:left;
 	padding-bottom:-10px;
@@ -193,7 +193,7 @@ figcaption {
 }
 
 .cont {
-	font-size:30px;
+	font-size:25px;
 	text-decoration:none;
 	color:#1244e6;
 }
