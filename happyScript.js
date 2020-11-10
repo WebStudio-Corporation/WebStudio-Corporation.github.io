@@ -18,7 +18,7 @@ var testImage = new Image();
 			setTimeout(function() {
 				out2 = false;
 			},1000);
-		
+		//лох
 		var audio2 = new Audio(`image/attack4.mp3`)
 		audio2.play();
 		
